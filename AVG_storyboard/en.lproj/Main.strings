@@ -1,0 +1,99 @@
+
+/* Class = "UILabel"; text = "1947"; ObjectID = "0yE-j9-BHV"; */
+"0yE-j9-BHV.text" = "1947";
+
+/* Class = "UITabBarItem"; title = "表線"; ObjectID = "2ep-e6-bZQ"; */
+"2ep-e6-bZQ.title" = "表線";
+
+/* Class = "UILabel"; text = "音量"; ObjectID = "2mw-E9-Osj"; */
+"2mw-E9-Osj.text" = "音量";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "4Ue-sv-oFC"; */
+"4Ue-sv-oFC.title" = " ";
+
+/* Class = "UILabel"; text = "好啦，我知道了啦 起床就是了"; ObjectID = "9Ji-bb-hBc"; */
+"9Ji-bb-hBc.text" = "好啦，我知道了啦 起床就是了";
+
+/* Class = "UILabel"; text = "字體"; ObjectID = "Cex-gu-d7d"; */
+"Cex-gu-d7d.text" = "字體";
+
+/* Class = "UIButton"; configuration.title = "Qiuit"; ObjectID = "DVG-ci-Gvx"; */
+"DVG-ci-Gvx.configuration.title" = "Qiuit";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "DVG-ci-Gvx"; */
+"DVG-ci-Gvx.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "歡迎來到新世界！"; ObjectID = "Dnc-Ux-2nj"; */
+"Dnc-Ux-2nj.text" = "歡迎來到新世界！";
+
+/* Class = "UIButton"; normalTitle = "Language"; ObjectID = "DyB-as-CAm"; */
+"DyB-as-CAm.normalTitle" = "Language";
+
+/* Class = "UIBarButtonItem"; title = "回到初始頁"; ObjectID = "GWB-E4-lLt"; */
+"GWB-E4-lLt.title" = "回到初始頁";
+
+/* Class = "UITabBarItem"; title = "裏線"; ObjectID = "ICv-hV-6Hg"; */
+"ICv-hV-6Hg.title" = "裏線";
+
+/* Class = "UIButton"; configuration.title = "雖然很不爽，但我也只能起來了"; ObjectID = "P8w-oc-gY7"; */
+"P8w-oc-gY7.configuration.title" = "雖然很不爽，但我也只能起來了";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "P8w-oc-gY7"; */
+"P8w-oc-gY7.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "語言"; ObjectID = "RzG-ur-s8d"; */
+"RzG-ur-s8d.text" = "語言";
+
+/* Class = "UIButton"; configuration.title = "Start"; ObjectID = "TSY-LJ-Nkr"; */
+"TSY-LJ-Nkr.configuration.title" = "Start";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "TSY-LJ-Nkr"; */
+"TSY-LJ-Nkr.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "你確定要繼續玩嗎"; ObjectID = "U9C-Xx-gm1"; */
+"U9C-Xx-gm1.text" = "你確定要繼續玩嗎";
+
+/* Class = "UICommand"; title = "正體中文(臺灣)"; ObjectID = "Ynn-4q-8zT"; */
+"Ynn-4q-8zT.title" = "正體中文(臺灣)";
+
+/* Class = "UIButton"; configuration.title = "Select"; ObjectID = "bzf-3K-Pdi"; */
+"bzf-3K-Pdi.configuration.title" = "Select";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "bzf-3K-Pdi"; */
+"bzf-3K-Pdi.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Yes"; ObjectID = "fiV-ex-AvC"; */
+"fiV-ex-AvC.configuration.title" = "Yes";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "fiV-ex-AvC"; */
+"fiV-ex-AvC.normalTitle" = "Button";
+
+/* Class = "UICommand"; title = "Englsh"; ObjectID = "kIc-Xg-yve"; */
+"kIc-Xg-yve.title" = "Englsh";
+
+/* Class = "UIButton"; configuration.title = "恁北就是要睡"; ObjectID = "lXC-GM-gUT"; */
+"lXC-GM-gUT.configuration.title" = "恁北就是要睡";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "lXC-GM-gUT"; */
+"lXC-GM-gUT.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "<<白色記憶>>"; ObjectID = "ntk-hC-7Cp"; */
+"ntk-hC-7Cp.text" = "<<白色記憶>>";
+
+/* Class = "UIButton"; configuration.title = "No"; ObjectID = "ogu-gn-aq2"; */
+"ogu-gn-aq2.configuration.title" = "No";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ogu-gn-aq2"; */
+"ogu-gn-aq2.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "昭言!都幾點了!還不起床"; ObjectID = "qp4-DC-zqa"; */
+"qp4-DC-zqa.text" = "昭言!都幾點了!還不起床";
+
+/* Class = "UIBarButtonItem"; title = "回到初始頁"; ObjectID = "uHM-xe-zYR"; */
+"uHM-xe-zYR.title" = "回到初始頁";
+
+/* Class = "UILabel"; text = "Please you play again"; ObjectID = "xVJ-Lo-3cU"; */
+"xVJ-Lo-3cU.text" = "Please you play again";
+
+/* Class = "UIMenu"; title = "Language"; ObjectID = "ydr-Rc-eut"; */
+"ydr-Rc-eut.title" = "Language";
